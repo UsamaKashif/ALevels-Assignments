@@ -111,7 +111,7 @@ class LinkedList:
 
 
 
-# smenu created
+# menu created
 def Menu():
 	print("1: Add an Item")
 	print("2: Find an Item")
